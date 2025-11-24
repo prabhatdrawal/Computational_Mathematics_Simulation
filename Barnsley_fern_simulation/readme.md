@@ -7,7 +7,7 @@ The fern code developed by Barnsley is an example of an iterated function system
 
 # Pseudo_Code
 
-draw all pixels on screen
+draw all pixels on screen \n
 x = 0.0
 y = 0.0
 t = 0.0
