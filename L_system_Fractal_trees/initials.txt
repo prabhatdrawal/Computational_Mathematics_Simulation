@@ -1,0 +1,11 @@
+# [x] Define L System
+# [x] Implement Sentence Generation
+# [] Implement drawing
+    [] Set up pygame
+    [] Get Command Line Input
+    [] Implement Draw Function
+
+# L System generate sentences , translate sentences into Geometric Structures
+# Axiom : initial String
+# production rule:  generates longer strings
+# translate into geo structure
