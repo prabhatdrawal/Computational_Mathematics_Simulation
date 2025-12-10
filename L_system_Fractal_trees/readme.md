@@ -4,6 +4,9 @@
 
  ## Output
 The output of the fractal tree drawing is as below:
+
+
+
 <img width="490" height="523" alt="Screenshot 2025-12-10 at 22 39 58" src="https://github.com/user-attachments/assets/fd0996c8-6bb7-46f2-9bb1-9086354c7c65" />
 
 <img width="499" height="500" alt="Screenshot 2025-12-10 at 22 40 14" src="https://github.com/user-attachments/assets/aec3b3cc-1067-4356-88a2-cc53ce0616ed" />
